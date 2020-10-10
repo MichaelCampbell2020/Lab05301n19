@@ -85,3 +85,23 @@ Then the content should be unique and reflect the skills and personality of the 
     - A question within the context of today's lab assignment
     - An observation about the lab assignment, or related 'Ah-hah!' moment
     - How long you spent working on this assignment
+
+Deployment Workshop
+Today, we will be deploying your portfolio to a real web server. This will require a carefully stepped process:
+
+- [x] Create a new repository for your server at GitHub
+- [x] Develop and test your server from your machine
+- /data route that sends JSON data
+- Static files served from /public
+- Simple ‘hello world’ index.html in public
+- []Check in your server code to GitHub (master branch)
+- []Create an account at Heroku.com
+- []Create a new “app” from your Heroku Dashboard
+- []Deploy your app from your GitHub repository (see Deploy tab in Heroku)
+- []Confirm app is live!
+- []Connect your app to master
+- []Move portfolio website content to the public folder
+- []Check in your server code to GitHub (master branch)
+- []View Heroku logs (Activity tab)
+- []Confirm app with portfolio content is live
+- []Win.
