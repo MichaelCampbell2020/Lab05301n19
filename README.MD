@@ -91,13 +91,13 @@ Then the content should be unique and reflect the skills and personality of the 
 
 Number and name of feature: Feature #2: Modify the contents
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1
 
-Start time: _____
+Start time: 5 pm
 
-Finish time: _____
+Finish time: 5:45 pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 45 mins
 
 ## Submission Instructions
 
